@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **loredanabenzar2@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/benzar loredana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benzar loredana" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="www.linkedin.com/in/loredana-benzar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benzar loredana" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

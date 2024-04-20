@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **meal-planning-app**
 
-- 🌱 I’m currently learning **TypeScript** and **Docker**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 Check out my portfolio [https://loredana-benzar.netlify.app/](https://loredana-benzar.netlify.app/)
 

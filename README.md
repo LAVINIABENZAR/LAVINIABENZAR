@@ -10,7 +10,7 @@
 - 👨‍💻 Check out my portfolio [https://loredana-benzar.netlify.app/](https://loredana-benzar.netlify.app/)
 
 - 📫 How to reach me **loredanabenzar2@gmail.com**
-
+<br/>
 <h3 align="center" background="pink">Connect with me:</h3>
 <br/>
 <p align="center">

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laviniabenzar&label=Profile%20views&color=0e75b6&style=flat" alt="laviniabenzar" /> </p>
 
-- 🔭 I’m currently working on **meal-planning-app**
+- 🔭 I’m currently working on a **food blog**
 
 - 🌱 I’m currently learning **TypeScript**
 
